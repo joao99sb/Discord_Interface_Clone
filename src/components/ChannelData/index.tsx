@@ -21,7 +21,7 @@ const ChannelData:React.FC = () => {
           key={number}
           author="CEO"
           date="24/10/2020"
-          content="Trabalho incível, queremos você na nossa equipe"
+          content="Trabalho incível, queremos você em nossa equipe"
           />
        ])}
 
