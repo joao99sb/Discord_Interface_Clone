@@ -1,5 +1,5 @@
 import React,{useRef,useEffect} from 'react'
-import { Container, Messages, InputWrapper, Input,InputIcon } from './styles'
+import { Container, Messages, InputWrapper, Input} from './styles'
 import {Mention} from '../ChannelMessage/styles'
 import ChannelMessage from '../ChannelMessage'
 
@@ -38,7 +38,7 @@ const ChannelData:React.FC = () => {
 
      <InputWrapper>
      <Input placeholder="interaja no chat"/>
-     <InputIcon/>
+
      </InputWrapper>
     </Container>
   )
